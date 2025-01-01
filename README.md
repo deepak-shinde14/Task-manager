@@ -34,7 +34,7 @@ A simple and interactive Task Management application built with **React** that h
    ```bash
    git clone https://github.com/yourusername/react-task-management-app.git
    cd react-task-management-app
-<<<<<<< HEAD
+
 
 2. **Install Dependencies: Navigate to the frontend directory and install the required packages.**
    ```bash
@@ -45,6 +45,3 @@ A simple and interactive Task Management application built with **React** that h
    ```bash
    npm start
 4. Open in Browser: Once the server is running, open http://localhost:3000 in your browser to view the app.
-=======
->>>>>>> 4b8f921 (Initial commit)
-"# task-manager" 
